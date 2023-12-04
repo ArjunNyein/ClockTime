@@ -56,6 +56,15 @@ public class TestClockTimeTest
         ClockTime clockTim4 = new ClockTime(6, 6, 6);
         assertEquals(true, clockTim3.equals(clockTim4));
     }
+
+    @Test
+    public void test3()
+    {
+        ClockTime clockTim1 = new ClockTime(12, 12, 12);
+        ClockTime clockTim2 = new ClockTime(12, 12, 12);
+        assertEquals(12, clockTim1.getHour());
+    }
 }
+
 
 
