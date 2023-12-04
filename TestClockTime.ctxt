@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestClockTime
+comment0.text=\n\ TestClockTime\n\ This\ class\ tests\ the\ methods\ of\ the\ ClockTime\ class\n\ \n\ @author\ Erica\ Eddy\n\ @version\ November\ 2016\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=clockA\ clockB
+comment2.target=void\ printEquals(ClockTime,\ ClockTime)
+numComments=3
